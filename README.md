@@ -1,5 +1,5 @@
 ### About Me
-I'm Ilmam, a Frontend Web Developer with nearly two years of work experience. My passion lies in crafting seamless and interactive user experiences. This journey into web development has been fueled by my innate curiosity and commitment to mastering the latest web technologies. I thrive on learning and pushing the boundaries of what’s possible in the digital space.
+I'm Ilmam, a Frontend Web Developer with two years of work experience. My passion lies in crafting seamless and interactive user experiences. This journey into web development has been fueled by my innate curiosity and commitment to mastering the latest web technologies. I thrive on learning and pushing the boundaries of what’s possible in the digital space.
 
 ### Tech Stack
 
