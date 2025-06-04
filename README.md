@@ -13,7 +13,7 @@ I'm Ilmam, a Frontend Web Developer with nearly two years of work experience. My
 **Tools & Utilities**:
 - **Development Tools**: Git, GitHub, Visual Studio Code, Postman
 - **React Ecosystem**: useReducer, useCallback, React Hook Form, Zustand, js-Cookie, Axios, jsonwebtoken
-- **Others**: Kentico, HubSpot, Wix, Wordpress, AWS, Azure, Jenkins, IIS
+- **Others**: Umbraco, Kentico, HubSpot, Wix, Wordpress, AWS, Azure, Jenkins, IIS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmamFarizan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
